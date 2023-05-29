@@ -1,6 +1,5 @@
 # SimpleRouge-likeGame
 - 사용 언어: Processing 4 (Java)
-- Github link: 
 - Processing을 이용해 만든 간단한 로그라이크 게임입니다.
 - 개발기간: 14일
 - 마지막 수정일: 2023년 3월
